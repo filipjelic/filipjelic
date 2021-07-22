@@ -6,7 +6,7 @@ Welcome to my github page!
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=filipjelic)
 
 - 🔭 I’m currently working on **something challenging 😊**
-- 🌱 I’m currently learning **Go and Algo**
+- 🌱 I’m currently learning **DevOps and Algo**
 - 💬 Ask me about anything related to **.NET Core/ReactJS**
 - 👯 I’m looking to collaborate on **OSS projects**
 - ⏲ Like spending time on **Pluralsight**
