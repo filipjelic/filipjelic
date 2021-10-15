@@ -3,7 +3,6 @@
 Welcome to my github page!
 
 <a href="https://www.linkedin.com/in/filip-jelic/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=appveyor&logo=linkedin&logoColor=white)</a>
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=filipjelic)
 
 - 🔭 I’m currently working on **something challenging 😊**
 - 🌱 I’m currently learning **DevOps and Algo**
