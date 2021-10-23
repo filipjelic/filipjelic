@@ -1,14 +1,13 @@
-# Hey there 🤘 
+# Hey there
 
 Welcome to my github page!
 
 <a href="https://www.linkedin.com/in/filip-jelic/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=appveyor&logo=linkedin&logoColor=white)</a>
 
-- 🔭 I’m currently working on **something challenging 😊**
-- 🌱 I’m currently learning **DevOps and Algo**
+- 🔭 I’m currently working on **something interesting**
+- 🌱 I’m currently learning **.NET Core runtime**
 - 💬 Ask me about anything related to **.NET Core/ReactJS**
 - 👯 I’m looking to collaborate on **OSS projects**
-- ⏲ Like spending time on **Pluralsight**
 
 ## Tech Stack
 <p>
